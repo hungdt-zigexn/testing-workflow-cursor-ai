@@ -71,7 +71,3 @@ Sau mỗi bước, AI sẽ:
 - Thêm nhận xét về kết quả test
 - Ghi lại vấn đề phát hiện
 - Đề xuất cải tiến
-
-## 🌟 Ví dụ thực tế
-
-**Ví dụ 1:** Kiểm tra tính năng đăng nhập
